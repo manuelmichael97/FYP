@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hospitals\' Locator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="about_first">Health Insurance Hospital\'s Locator is a platform which helps patients
+    who use certain kind of Health Insurance and they are not aware of which kind of Hospitals accepts
+    that insurance he/she have as well as which services can be accommodated with that Insurance </string>
+
+    <string name="team1">Aisha Sudi Ismail</string>
+    <string name="team2">Rose G. Miyombo </string>
+    <string name="team3">Paulo D. Madale</string>
+    <string name="team4">Samwel R. Kuboja</string>
+    <string name="team5">Emmanuel Michael</string>
+</resources>

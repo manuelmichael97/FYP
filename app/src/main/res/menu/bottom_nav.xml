@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_nssf"
+        android:enabled="true"
+        android:icon="@drawable/ic_local_hospital"
+        android:title="Nssf"/>
+
+    <item
+        android:id="@+id/nav_nhif"
+        android:enabled="true"
+        android:icon="@drawable/ic_local_hospital"
+        android:title="Nhif"/>
+
+<!--    <item-->
+<!--        android:id="@+id/nav_jubilee"-->
+<!--        android:enabled="true"-->
+<!--        android:icon="@drawable/ic_local_hospital"-->
+<!--        android:title="Jubilee"/>-->
+
+    <item
+        android:id="@+id/nav_aar"
+        android:enabled="true"
+        android:icon="@drawable/ic_local_hospital"
+        android:title="Aar"/>
+</menu>
